@@ -60,6 +60,8 @@ The minimal information to be recorded is described below:
 
 1. **Invoices** - e.g. the invoice number, date, car, customer, and salesperson related to each car sale.
 
+   ![ERD](https://s3-eu-west-1.amazonaws.com/ih-materials/uploads/data-static/images/erd.png)
+
 When designing a database, it's important to consider several aspects to ensure its functionality and efficiency. Here are some things to keep in mind:
 
 * **Entities and attributes**
@@ -79,7 +81,6 @@ When designing a database, it's important to consider several aspects to ensure 
 
 Your end product of this challenge should look something like the E-R diagram shown below, although it doesn't have to be that complicated:
 
-![ERD](https://s3-eu-west-1.amazonaws.com/ih-materials/uploads/data-static/images/erd.png)
 
 Using pen and paper (or computer software if you are skilled at creating digital diagrams), design a database to meet the minimum requirements of the task.
 <img width="1186" height="797" alt="screenshot diagrama lab jpge" src="https://github.com/user-attachments/assets/4b063f74-3740-4a3e-a939-a2a22103db4d" />
