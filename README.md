@@ -49,6 +49,7 @@ By completing this lab, you will gain valuable experience in designing and creat
 Design an **Entity-Relationship (E-R) diagram** for your database.
 
 The database should have at least four tables: `cars`, `customers`, `salespersons` and `invoices`.
+<img width="1186" height="797" alt="screenshot diagrama lab jpge" src="https://github.com/user-attachments/assets/4b063f74-3740-4a3e-a939-a2a22103db4d" />
 
 The minimal information to be recorded is described below:
 
@@ -83,7 +84,7 @@ Your end product of this challenge should look something like the E-R diagram sh
 
 
 Using pen and paper (or computer software if you are skilled at creating digital diagrams), design a database to meet the minimum requirements of the task.
-<img width="1186" height="797" alt="screenshot diagrama lab jpge" src="https://github.com/user-attachments/assets/4b063f74-3740-4a3e-a939-a2a22103db4d" />
+
 
 
 ## Challenge 2 - Create the Database and Tables
